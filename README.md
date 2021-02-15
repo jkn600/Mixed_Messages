@@ -1,3 +1,5 @@
 # Mixed Messages
 
-## This is a Header 2
+## Business Quote Generator
+
+ A script that outputs a random business quote when ran.
