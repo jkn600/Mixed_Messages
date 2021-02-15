@@ -4,7 +4,10 @@
 
  A script that outputs a random business quote when ran.
 
- Some more text!
+### Instructions
+- Clone this repository
+- open repository in git
+- run ```$ node script.js```
 
  # Technologies
  - NodeJS
